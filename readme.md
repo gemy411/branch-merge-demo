@@ -7,3 +7,5 @@ Author
 Date
 
 Contact Person
+
+Size
