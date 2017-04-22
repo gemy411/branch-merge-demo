@@ -9,3 +9,6 @@ Date
 Contact Person
 
 Location
+
+Size
+
