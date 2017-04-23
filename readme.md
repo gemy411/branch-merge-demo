@@ -14,3 +14,4 @@ Size
 
 Height
 
+Width
